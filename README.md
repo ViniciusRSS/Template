@@ -1,4 +1,4 @@
-`rgb(9, 105, 218)`  # Aprendizado por Projeto Integrado (API) - Template
+ # Aprendizado por Projeto Integrado (API) - Template
 
 Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
 
